@@ -1,0 +1,135 @@
+.pimg {
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+.wp{
+padding: 0% 25%;
+height: 300px;
+border-radius: 200%;
+}
+.ph{
+  margin-left: 250px;
+  width: 400px;
+}
+.pa{
+  width: 350px;
+  margin-left: 250px;
+}
+.pn{
+  margin-left: 250px;
+  width: 450px;
+}
+.container-fluid{
+  padding: 5% 20%;
+  font-family: 'Shadows Into Light', cursive;
+  font-weight: normal;
+}
+.carousel-item{
+  padding: 0% 17%;
+}
+h1 {
+  color: #000;
+  padding-top: 50px;
+  font-family: 'Shadows Into Light', cursive;
+  font-weight:600;
+}
+h2{
+  margin-left: 50px;
+  color: #2C2E43;
+  font-family: 'Zen Tokyo Zoo', cursive;
+  font-weight: normal;
+}
+h3{
+  text-align: center;
+  padding-top: 3%
+}
+h4{
+  padding-top: 4%;
+  text-align: center;
+  font-family: 'Fuggles', cursive;
+  font-weight: bold;
+  font-size: 40px;
+  color: #EDF6E5;
+}
+h5{
+  text-align: center;
+}
+p{
+  color: #8f8f8f;
+  ;
+}
+.p1{
+   padding: 7% 25%;
+     font-size: 30px;
+}
+.p3{
+  padding: 0% 25%;
+  padding-bottom: 3%;
+  font-family: 'Fuggles', cursive;
+  font-weight: bold;
+  font-size: 40px;
+  color: #EDF6E5;
+}
+#topcontainer{
+  background-color: #88FFF7;
+  font-family: 'Shadows Into Light', cursive;
+  font-weight: normal;
+}
+#secondcontainer{
+  background-color: #CDF0EA;
+  padding: 7% 15%;
+  font-family: 'Zen Tokyo Zoo', fantasy;
+  font-weight: normal;
+}
+#thirdcontainer{
+  background-color: #50CB93;
+    font-family: 'Fuggles', cursive;
+}
+#fourthcontainer{
+  padding: 100px;
+}
+#fifthcontainer{
+  padding: 5%;
+  background-color: #5F939A;
+  text-align: center;
+}
+#sixthcontainer{
+  background-color: black;
+    padding: 7% 15%;
+  text-align: center;
+}
+.downloadbutton{
+  margin: 5% 3% 5% 0;
+}
+.navbar{
+  padding: 1% 1%;
+}
+.navbar-brand{
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 12px;
+}
+.nav-link{
+  font-size: 20px;
+}
+.service{
+  text-align: center;
+  padding: 5%;
+}
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color:#2C2E43;
+}
+.card{
+  padding: 3%;
+}
+.dicon{
+  margin: 20px 10px;
+}
+.dicon:hover{
+  color: white;
+}
